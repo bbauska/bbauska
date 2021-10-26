@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...Gleeful, possessive (my,our,yours,his,hers)
 - ⚡ Fun fact: ...Over 2,000 atomic bombs were 'tested' Worldwide since 1944.  Not fun, but still a fact.
 -->
-### Hi there <img src="https://github.com/bbauska/ufo/blob/main/images/60th%20Anniversary%20Of%20The%20Atomic%20Bomb%20Of%20Nagasaki.jpg?raw=true" width="30px">, I am Brian - Readme Sometime!
+### Hi there <img src="https://github.com/bbauska/ufo/blob/main/images/60th%20Anniversary%20Of%20The%20Atomic%20Bomb%20Of%20Nagasaki.jpg?raw=true" width="30px">, I am Brian - I do data warehousing. 'R'.  
