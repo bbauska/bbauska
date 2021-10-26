@@ -2,9 +2,7 @@
 
 <!--
 **bbauska/bbauska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...ufo/atom bomb = ufo.bauska.site
 - 🌱 I’m currently learning ...how to be a better person, grandfather, father
 - 👯 I’m looking to collaborate on ...deliveries
