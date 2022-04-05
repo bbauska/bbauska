@@ -28,3 +28,10 @@ Here are some ideas to get you started:
 
 [W3Cx-1of5-CSS.0x](https://w3cx-1of5-css.0x.bauska.org/)
 
+[W3Cx-2of5-HTM5.0x](https://w3cx-2of5-html5.0x.bauska.org/)
+
+[W3Cx-3of5-HTML5.1x](https://w3cx-3of5-html5.1x.bauska.org/)
+
+[W3Cx-4of5-HTML5.2x](https://w3cx-4of5-html5.2x.bauska.org/)
+
+[W3Cx-5of5-JS](https://w3cx-5of5-js.bauska.org/)
