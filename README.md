@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Over 2,000 atomic bombs were 'tested' Worldwide since 1944.  Not fun, but still a fact.
 -->
 ### Hi there <img src="https://github.com/bbauska/ufo/blob/main/images/60th%20Anniversary%20Of%20The%20Atomic%20Bomb%20Of%20Nagasaki.jpg?raw=true" width="30px">, I am Brian Bauska - I do data warehousing. 'R'.  Full-Stack Web Development (mostly). SDLC. Oracle. SQL,T-SQL,PL/SQL.  TOAD.  Discoverer.  Git.
+
+###
+https://github.com/startbootstrap/startbootstrap-creative
+
+https://startbootstrap.com/theme/creative
+
+https://codepen.io/fossheim/pen/PoqKoLY
+
+https://github.com/bbauska/cellardoor
+
