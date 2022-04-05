@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 [W3Cx-4of5-HTML5.2x](https://w3cx-4of5-html5.2x.bauska.org/)
 
-[W3Cx-5of5-JS](https://w3cx-5of5-js.bauska.org/)
+[W3Cx-5of5-JS.0x](https://w3cx-5of5-js.0x.bauska.org/)
