@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 [Cellar Door](https://github.com/bbauska/cellardoor)
 
+[8 Steps to Publish Blog on GitHub](https://medium.com/tunapanda-institute/8-steps-to-publish-your-portfolio-on-github-9d6e6e3d2e84)
+
