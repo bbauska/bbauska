@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 [8 Steps to Publish Blog on GitHub](https://medium.com/tunapanda-institute/8-steps-to-publish-your-portfolio-on-github-9d6e6e3d2e84)
 
+[Awesome BigData](https://github.com/bbauska/awesome-bigdata/blob/main/README.md)
+
 [W3Cx-1of5-CSS.0x](https://w3cx-1of5-css.0x.bauska.org/)
 
 [W3Cx-2of5-HTM5.0x](https://w3cx-2of5-html5.0x.bauska.org/)
