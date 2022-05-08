@@ -30,13 +30,17 @@ Here are some ideas to get you started:
 
 [Awesome BigData](https://github.com/bbauska/awesome-bigdata/blob/main/README.md)
 
-<h3>Bitcoin and Cryptocurrencies</h3>
+<h3>Berkeley Courses on Bitcoin and Cryptocurrencies</h3>
+
+[CS198.1x](https://cs198.1x.bauska.org)
+
+<h3> Hyperledger Blockchain Technology</h3>
 
 [LFS170x](https://lfs170x.bauska.org)
 
-<h3> Hyperledger and Blockchain</h3>
-
 [LFS171x](https://lfs171x.bauska.org)
+
+<h3>Web Development from W3C</h3>
 
 [W3Cx-1of5-CSS.0x](https://w3cx-1of5-css.0x.bauska.org/)
 
@@ -47,3 +51,8 @@ Here are some ideas to get you started:
 [W3Cx-4of5-HTML5.2x](https://w3cx-4of5-html5.2x.bauska.org/)
 
 [W3Cx-5of5-JS.0x](https://w3cx-5of5-js.0x.bauska.org/)
+
+<h3>My Resume</h3>
+
+[Brians Resume](https://brians-resume.bauska.net/)
+
