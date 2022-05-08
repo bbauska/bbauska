@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 [Awesome BigData](https://github.com/bbauska/awesome-bigdata/blob/main/README.md)
 
 <h3>Bitcoin and Cryptocurrencies</h3>
+
 [LFS170x](https://lfs170x.bauska.org)
 
 <h3> Hyperledger and Blockchain</h3>
+
 [LFS171x](https://lfs171x.bauska.org)
 
 [W3Cx-1of5-CSS.0x](https://w3cx-1of5-css.0x.bauska.org/)
