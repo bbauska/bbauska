@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 <h3>Berkeley Courses on Bitcoin and Cryptocurrencies</h3>
 
-[CS198.1x](https://cs198.1x.bauska.org)
+[CS198.1x](https://cs198.1x.bauska.net)
+
+[CS198.2x](https://cs198.1x.bauska.net)
 
 <h3> Hyperledger Blockchain Technology</h3>
 
