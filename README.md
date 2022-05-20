@@ -30,19 +30,23 @@ Here are some ideas to get you started:
 
 [Awesome BigData](https://github.com/bbauska/awesome-bigdata/blob/main/README.md)
 
-<h3>Berkeley Courses on Bitcoin and Cryptocurrencies</h3>
+<hr>
 
-[CS198.1x](https://bbauska.github.io/CS198.1x/)
+<h2>Berkeley Courses on Bitcoin and Cryptocurrencies</h3>
 
-<a href="https://bbauska.github.io/CS198.2x/">CS198.2x</a>
+### [CS198.1x](https://bbauska.github.io/CS198.1x/)
 
-[CS198.2x](https://bbauska.github.io/CS198.2x/)
+### <a href="https://bbauska.github.io/CS198.2x/">CS198.2x</a>
 
-<h3> Hyperledger Blockchain Technology</h3>
+### [CS198.2x](https://bbauska.github.io/CS198.2x/)
 
-[LFS170x](https://lfs170x.bauska.org)
+<h2>Hyperledger Blockchain Technology</h3>
 
-[LFS171x](https://lfs171x.bauska.org)
+### [LFS170x](https://lfs170x.bauska.org)
+
+### [LFS171x](https://lfs171x.bauska.org)
+
+<hr>
 
 <h2>Web Development from W3C</h2>
 
@@ -52,11 +56,15 @@ Here are some ideas to get you started:
 
 ### <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">github W3Cx-1of5-CSS.0x</a>
 
+<hr>
+
 ### [W3Cx-2of5-HTM5.0x](https://w3cx-2of5-html5.0x.bauska.org/)
 
 ### <a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0X</a>
 
 ### <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Xx-2of5-HTML5.0x</a>
+
+<hr>
 
 ### [W3Cx-3of5-HTML5.1x](https://w3cx-3of5-html5.1x.bauska.org/)
 
@@ -64,11 +72,15 @@ Here are some ideas to get you started:
 
 #### <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">github w3cx-3of5-HTML5.1x</a>
 
+<hr>
+
 ### [W3Cx-4of5-HTML5.2x](https://w3cx-4of5-html5.2x.bauska.org/)
 
 ### <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">W3Cx-4of5-HTML5.2X</a>
 
 ### <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">github w3cx-4of5-HTML5.2x</a>
+
+<hr>
 
 ### [W3Cx-5of5-JS.0x](https://w3cx-5of5-js.0x.bauska.org/)
 
@@ -77,6 +89,7 @@ Here are some ideas to get you started:
 ### <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">github w3cx-50f5-JS.0x</a>
 
 <hr>
+
 <h3>My Resume</h3>
 
 [Brians Resume](https://brians-resume.bauska.net/)
