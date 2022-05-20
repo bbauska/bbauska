@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 
 [CS198.1x](https://bbauska.github.io/CS198.1x/)
 
-[CS198.2x](https://cs198.1x.bauska.net)
+<a href="https://bbauska.github.io/CS198.2x/">CS198.2x</a>
+
+[CS198.2x](https://bbauska.github.io/CS198.2x/)
 
 <h3> Hyperledger Blockchain Technology</h3>
 
