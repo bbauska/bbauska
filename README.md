@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 
 ### [CS198.1x](https://bbauska.github.io/CS198.1x/)
 
-### <a href="https://bbauska.github.io/CS198.2x/">CS198.2x</a>
+### *<a href="https://bbauska.github.io/cs198.1x">cs198.1x</a>*
 
 ### [CS198.2x](https://bbauska.github.io/CS198.2x/)
+
+### *<a href="https://bbauska.github.io/cs198.2x">cs198.2x</a>*
 
 <h2>Hyperledger Blockchain Technology</h3>
 
