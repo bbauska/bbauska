@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### [W3Cx-2of5-HTM5.0x](https://w3cx-2of5-html5.0x.bauska.org/)
+### [W3Cx-2of5-HTM5.0x](https://w3cx-2of5.bauska.org/)
 
 ### <a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0X</a>
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### [W3Cx-3of5-HTML5.1x](https://w3cx-3of5-html5.1x.bauska.org/)
+### [W3Cx-3of5-HTML5.1x](https://w3cx-3of5.bauska.org/)
 
 ### <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">W3Cx-3of5-HTML5.1X</a>
 
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### [W3Cx-4of5-HTML5.2x](https://w3cx-4of5-html5.2x.bauska.org/)
+### [W3Cx-4of5-HTML5.2x](https://w3cx-4of5.bauska.org/)
 
 ### <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">W3Cx-4of5-HTML5.2X</a>
 
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### [W3Cx-5of5-JS.0x](https://w3cx-5of5-js.0x.bauska.org/)
+### [W3Cx-5of5-JS.0x](https://w3cx-5of5.bauska.org/)
 
 ### <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0X</a>
 
