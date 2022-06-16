@@ -34,19 +34,19 @@ Here are some ideas to get you started:
 
 <h2>Berkeley Courses on Bitcoin and Cryptocurrencies</h3>
 
-### [CS198.1x](https://github.com/bbauska/CS198.1x/)
+### [CS198.1x github](https://github.com/bbauska/CS198.1x/)
 
-### *<a href="https://cs1981x.bbauska.org">cs198.1x</a>*
+### *<a href="https://cs1981x.bbauska.net">cs198.1x Berkeley Bitcoin and Cryptocurrencies</a>*
 
-### [CS198.2x](https://github.com/bbauska/CS198.2x/)
+### [CS198.2x github](https://github.com/bbauska/CS198.2x/)
 
-### *<a href="https://cs1982x.bbauska.org">cs198.2x</a>*
+### *<a href="https://cs1982x.bbauska.net">cs198.2x Berkeley Blockchain Technology</a>*
 
 <h2>Hyperledger Blockchain Technology</h3>
 
-### [LFS170x](https://lfs170x.bauska.org)
+### [LFS170x Blockchain: Understanding It's Uses and Implications](https://lfs170x.bauska.org)
 
-### [LFS171x](https://lfs171x.bauska.org)
+### [LFS171x Introduction to Hyperledger Blockchain Technology](https://lfs171x.bauska.org)
 
 <hr>
 
