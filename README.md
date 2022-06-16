@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 <h2>Berkeley Courses on Bitcoin and Cryptocurrencies</h3>
 
-### [CS198.1x](https://bbauska.github.io/CS198.1x/)
+### [CS198.1x](https://github.com/bbauska/CS198.1x/)
 
 ### *<a href="https://bbauska.github.io/cs198.1x">cs198.1x</a>*
 
-### [CS198.2x](https://bbauska.github.io/CS198.2x/)
+### [CS198.2x](https://github.com/bbauska/CS198.2x/)
 
 ### *<a href="https://bbauska.github.io/cs198.2x">cs198.2x</a>*
 
