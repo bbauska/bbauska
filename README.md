@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ###
 [Start Boot Strap or something like it](https://github.com/startbootstrap/startbootstrap-creative)
 
-[Creative gitub theme](https://startbootstrap.com/theme/creative)
+[Creative github theme](https://startbootstrap.com/theme/creative)
 
 [Pen IO](https://codepen.io/fossheim/pen/PoqKoLY)
 
