@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<h2>Berkeley Courses on Bitcoin and Cryptocurrencies</h3>
+<h2>Berkeley Courses on Bitcoin and Cryptocurrencies</h2>
 
 ### [CS198.1x github](https://github.com/bbauska/CS198.1x/)
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### *<a href="https://cs1982x.bbauska.net">cs198.2x Berkeley Blockchain Technology</a>*
 
-<h2>Hyperledger Blockchain Technology</h3>
+<h2>Hyperledger Blockchain Technology</h2>
 
 ### [LFS170x Blockchain: Understanding It's Uses and Implications](https://lfs170x.bauska.org)
 
@@ -66,15 +66,15 @@ Here are some ideas to get you started:
 
 <hr>
 
-### [W3Cx-2of5-HTM5.0x](https://w3cx-2of5.bauska.org/)
+### [W3Cx-2of5-HTM5.0x](https://w3Cx-2of5.bauska.org/)
 
-### <a href="https://bbauska.github.io/w3cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0X</a>
+### <a href="https://bbauska.github.io/w3Cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0X</a>
 
-### <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Xx-2of5-HTML5.0x</a>
+### <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Cx-2of5-HTML5.0x</a>
 
 <hr>
 
-### [W3Cx-3of5-HTML5.1x](https://w3cx-3of5.bauska.org/)
+### [W3Cx-3of5-HTML5.1x](https://w3Cx-3of5.bauska.org/)
 
 ### <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">W3Cx-3of5-HTML5.1X</a>
 
