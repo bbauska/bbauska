@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 ### <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0x</a>
 
-### <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">github w3cx-50f5-JS.0x</a>
+### <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">github w3cx-5of5-JS.0x</a>
 
 <hr>
 
