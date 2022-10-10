@@ -105,10 +105,10 @@ Here are some ideas to get you started:
 ### <a href="https://github.com/bbauska/front-end-web-ui">github Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
 <br/>
 
-### <a href="https://www.coursera.org/learn/front-end-react/home/info">Front-End Web Deveopment with React</a>
+### <a href="https://www.coursera.org/learn/front-end-react/home/info">Coursera Front-End Web Deveopment with React</a>
 <br/>
 
-### <a href="https://www.coursera.org/learn/build-first-react-website/home/week/1">Build your first React Website</a>
+### <a href="https://www.coursera.org/learn/build-first-react-website/home/week/1">Coursera Build your first React Website</a>
 
 <hr>
 
