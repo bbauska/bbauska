@@ -56,9 +56,14 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2>Web Development from W3C</h2>
+<h2>REACT JS - let's get on it</h2>
 
-## REACT JS - let's get on it
+### [Geeks for Geeks](https://github.com/bbauska/G4G-REACT)
+### [How-to Geek](https://github.com/bbauska/inthroughtheoutdoor)
+
+<hr>
+
+<h2>Web Development from W3C</h2>
 
 ### [W3Cx-1of5-CSS.0x](https://w3cx-1of5.bauska.org/)
 
