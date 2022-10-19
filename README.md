@@ -65,18 +65,15 @@ Here are some ideas to get you started:
 
 <h2>Web Development from W3C</h2>
 
-### [W3Cx-1of5-CSS.0x](https://w3cx-1of5.bauska.org/)
-
+### <a href="https://w3cx-1of5.bauska.org">W3Cx-1of5-CSS.0x</a>
 ### <a href="https://bbauska.github.io/w3cx-1of5-css.0x/">W3Cx-1of5-CSS.0x</a>
 
 ### <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">github W3Cx-1of5-CSS.0x</a>
 
 <hr>
 
-### [W3Cx-2of5-HTM5.0x](https://w3Cx-2of5.bauska.org/)
-
+### <a href="https://w3Cx-2of5.bauska.org/">W3Cx-2of5-HTM5.0x</a>
 ### <a href="https://bbauska.github.io/w3Cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0x</a>
-
 ### <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Cx-2of5-HTML5.0x</a>
 
 <hr>
@@ -97,7 +94,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### [W3Cx-5of5-JS.0x](https://w3cx-5of5.bauska.org/)
+### <a href="https://w3cx-5of5.bauska.org/">W3Cx-5of5-JS.0x</a>
 
 ### <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0x</a>
 
@@ -121,5 +118,6 @@ Here are some ideas to get you started:
 
 <h3>My Resume</h3>
 
-[Brians Resume](https://brians-resume.bauska.net/)
+<a href="https://brians-resume.bauska.net/">Brian's Resume</a>
 
+<a href="https://www.facebook.com/brian.bauska/ target='_blank'">Join me on Facebook</a>
