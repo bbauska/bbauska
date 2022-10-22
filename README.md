@@ -160,12 +160,12 @@ Here are some ideas to get you started:
 <!-- links to my social media accounts -->
 
 [1]: http://www.facebook.com/brianbauska
-[2]: http://www.twitter.com/bbauska
-[3]: https://youtube.com/bbauska
-[4]: http://snapchat.com/bbauska
+[2]: https://twitter.com/home
+[3]: https://www.youtube.com/channel/UCIMwEn98rypH9HcyW6LV4kA
+[4]: https://web.snapchat.com/
 [5]: http://brian.bauska.org/e-mail
 [6]: https://mail.google.com/mail/u/0/?tab=km#inbox
-[7]: https://github.com/bbauska
+[7]: https://github.com/bbauska/bbauska
 [8]: https://medium.com/@brianbauska
 [9]: https://codepen.io/BBauska
 [10]: https://instagram/BBauska
