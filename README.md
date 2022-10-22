@@ -171,7 +171,7 @@ Here are some ideas to get you started:
 [10]: https://instagram/BBauska
 [11]: https://linkedin.com/BBauska
 [12]: https://indeed.com/BBauska
-[13]: https://quora.com/BBauska
+[13]: https://www.quora.com/profile/Brian-Bauska
 
 #### Social Icons 
 
