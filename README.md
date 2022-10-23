@@ -24,20 +24,18 @@ Here are some ideas to get you started:
 ### IBM Cognos websites/training/affiliates/links
 https://techvidyaa.com/cognos-training/
 
-
 ### How to survive using *choke* *cough* affiliate marketing.  Yes, i've done it.  i've sold my soul.
 https://onehourprofessor.com/how-to-make-money-on-audible/
 
-### How to get GREED out of America and save humanity (if successful, the World will most certainly follow)
-
 ### Cryptocurrencies - the future (if we have one) of humanity.
 
-### Best Web Development Trainers on the Web
+### Best Trainers on the Web
 1. Coursera
 2. edX
 3. MIT
-4. Berkeley
-5. and the rest...
+4. BerkeleyX
+5. W3Cx
+6. and the rest...
 
 ###
 [Free Code Camp - Frontend Development](https://github.com/freeCodeCamp/freeCodeCamp)
