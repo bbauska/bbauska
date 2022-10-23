@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 ### Hi there <img src="https://github.com/bbauska/ufo/blob/main/images/60th%20Anniversary%20Of%20The%20Atomic%20Bomb%20Of%20Nagasaki.jpg?raw=true" width="30px">, I am Brian Bauska - I do data wrangling, 'R', (semi) Full-Stack Web Development, software development (the full monty) [see: SDLC], Oracle BI, Oracle PL/SQL, Transact SQL, TOAD, Discoverer, Git, and Data Warehousing using IBM's Cognos BI.  Specialist in Digital Equipment Corporation's VAX-11 and HP's HP3000 mini/micro computer lines of hardware along with Digital Command Language (DCL), Powerhouse (Cognos' 4th generation language) Quick/Quiz/QTP/Qdesign, Linux Ubuntu primarily but other flavors as well.
 ### Software systems for which I'm privy include; payroll, human resources, inventory management, warehouse management, and finance (in all its spendor).
 ### '3rd' party systems; SAP, Cognos, IBM, Hewlett-Packard, Digital Equipment Corporation (now defunct), Samsung, Canon.
-### and with a poker up my ass I can type 70 wpm.
+### and, PAUSE, with a poker up my ass, I can type 70 wpm.
+
+### IBM Cognos websites/training/affiliates/links
+
+
+### How to survive using *choke* *cough* affiliate marketing.  Yes, i've done it.  i've sold my soul.
 
 ### Cryptocurrencies - the future (if we have one) of humanity.
 
