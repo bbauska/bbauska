@@ -22,16 +22,22 @@ Here are some ideas to get you started:
 ### and, PAUSE, with a poker up my ass, I can type 70 wpm.
 
 ### IBM Cognos websites/training/affiliates/links
+https://techvidyaa.com/cognos-training/
 
 
 ### How to survive using *choke* *cough* affiliate marketing.  Yes, i've done it.  i've sold my soul.
+https://onehourprofessor.com/how-to-make-money-on-audible/
+
+### How to get GREED out of America and save humanity (if successful, the World will most certainly follow)
 
 ### Cryptocurrencies - the future (if we have one) of humanity.
 
 ### Best Web Development Trainers on the Web
 1. Coursera
 2. edX
-3. all the rest...
+3. MIT
+4. Berkeley
+5. and the rest...
 
 ###
 [Free Code Camp - Frontend Development](https://github.com/freeCodeCamp/freeCodeCamp)
@@ -135,8 +141,14 @@ Here are some ideas to get you started:
 
 <a href="https://brians-resume.bauska.net/">Brian's Resume</a>
 
-<a href="https://www.facebook.com/brian.bauska/ target='_blank'">Join me on Facebook</a>
+<a href="https://www.facebook.com/brian.bauska/ target='_blank'">Join me (or not) on Facebook</a>
 
+### How to survive using *choke* *cough* affiliate marketing.  Yes, i've done it.  i've sold my soul.
+https://onehourprofessor.com/how-to-make-money-on-audible/
+
+### How to get GREED out of America and save humanity (if successful, the World will most certainly follow)
+
+### Cryptocurrencies - the future (if we have one) of humanity.
 
 <!-- display the social media buttons in your README -->
 
