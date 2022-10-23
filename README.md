@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...Gleeful, possessive (my,our,yours,his,hers)
 - ⚡ Fun fact: ...Over 2,000 atomic bombs were 'tested' Worldwide since 1944.  Not fun, but still a fact.
 -->
-### Hi there <img src="https://github.com/bbauska/ufo/blob/main/images/60th%20Anniversary%20Of%20The%20Atomic%20Bomb%20Of%20Nagasaki.jpg?raw=true" width="30px">, I am Brian Bauska - I do data warehousing. 'R'.  Full-Stack Web Development (mostly). SDLC. Oracle. SQL,T-SQL,PL/SQL.  TOAD.  Discoverer.  Git.  Mostly Data Warehousing using IBM's Cognos BI.
+### Hi there <img src="https://github.com/bbauska/ufo/blob/main/images/60th%20Anniversary%20Of%20The%20Atomic%20Bomb%20Of%20Nagasaki.jpg?raw=true" width="30px">, I am Brian Bauska - I do data wrangling, 'R', (semi) Full-Stack Web Development, software development (the full monty) [see: SDLC], Oracle BI, Oracle PL/SQL, Transact SQL, TOAD, Discoverer, Git, and Data Warehousing using IBM's Cognos BI.  Specialist in Digital Equipment Corporation's VAX-11 and HP's HP3000 mini/micro computer lines of hardware along with Digital Command Language (DCL), Powerhouse (Cognos' 4th generation language) Quick/Quiz/QTP/Qdesign), Linux Ubuntu primarily but other flavors as well.
+Software systems for which I'm privy include; printer software, payroll, human resources, inventory management, warehouse management, and finance.
+3rd party systems; SAP, Cognos, IBM, Hewlett-Packard, Digital Equipment Corporation (now defunct), Samsung, Canon.
 
 ###
 [Free Code Camp - Frontend Development](https://github.com/freeCodeCamp/freeCodeCamp)
