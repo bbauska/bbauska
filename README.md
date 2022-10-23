@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 ### Cryptocurrencies - the future (if we have one) of humanity.
 
+### Best Web Development Trainers on the Web
+1. Coursera
+2. edX
+3. all the rest...
+
 ###
 [Free Code Camp - Frontend Development](https://github.com/freeCodeCamp/freeCodeCamp)
 
