@@ -30,12 +30,17 @@ https://onehourprofessor.com/how-to-make-money-on-audible/
 ### Cryptocurrencies - the future (if we have one) of humanity.
 
 ### Best Trainers on the Web
-1. Coursera
-2. edX
-3. MIT
-4. BerkeleyX
-5. W3Cx
-6. and the rest...
+1. [Coursera](https://www.coursera.org/)
+2. [Front end Web UI Frameworks & Tools: Bootstrap 4](Coursera-web.bauska.net)
+2. [Front end Web Development with React](https://www.coursera.org/learn/front-end-react)
+3. [edX](https://www.edx.org/)
+4. [edX Make your own Chat App](https://learning.edx.org/course/course-v1:TUMx+MYOAx+2T2022/home)
+5. [MIT](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/)
+6. [BerkeleyX](https://rtl.berkeley.edu/services-programs/berkeleyx-edx)
+7. [HarvardX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?utm_source=renad_abdulrahman_saleh_almuha&utm_medium=affiliate_partner)
+8. [W3Cx](https://www.edx.org/school/w3cx)
+9. [IBM's Blockchain](https://learning.edx.org/course/course-v1:IBM+IBMBCC001+1T2022/home)
+10. and the rest...
 
 ###
 [Free Code Camp - Frontend Development](https://github.com/freeCodeCamp/freeCodeCamp)
