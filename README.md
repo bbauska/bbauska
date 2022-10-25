@@ -63,24 +63,6 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<h2>Berkeley Courses on Bitcoin and Cryptocurrencies</h2>
-
-  - ### [CS198.1x github](https://github.com/bbauska/CS198.1x/)
-
-  - ### *<a href="https://cs1981x.bbauska.net">cs198.1x Berkeley Bitcoin and Cryptocurrencies</a>*
-
-  - ### [CS198.2x github](https://github.com/bbauska/CS198.2x/)
-
-  - ### *<a href="https://cs1982x.bbauska.net">cs198.2x Berkeley Blockchain Technology</a>*
-
-<h2>Hyperledger Blockchain Technology</h2>
-
-  - ### [LFS170x Blockchain: Understanding It's Uses and Implications](https://lfs170x.bauska.org)
-
-  - ### [LFS171x Introduction to Hyperledger Blockchain Technology](https://lfs171x.bauska.org)
-
-<hr>
-
 <h2>REACT JS - let's get on it</h2>
 
   - ### [Geeks for Geeks](https://github.com/bbauska/G4G-REACT)
@@ -88,7 +70,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2>Web Development from W3C</h2>
+<h1>Web Development from W3C</h1>
 
 ## CSS3.0 - Cascade Style Sheet
   - ### <a href="https://w3cx-1of5.bauska.org">W3Cx-1of5-CSS.0x</a>
@@ -135,17 +117,17 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2>Web Development from Coursera</h2>
+<h1>Web Development from Coursera</h1>
 
-  - ### <a href="https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm">Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
+  - ## <a href="https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm">Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
 
-  - ### <a href="https://github.com/bbauska/front-end-web-ui">github Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
+  - ## <a href="https://github.com/bbauska/front-end-web-ui">github Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
 <br/>
 
-  - ### <a href="https://www.coursera.org/learn/front-end-react/home/info">Coursera Front-End Web Deveopment with React</a>
+  - ## <a href="https://www.coursera.org/learn/front-end-react/home/info">Coursera Front-End Web Deveopment with React</a>
 <br/>
 
-  - ### <a href="https://www.coursera.org/learn/build-first-react-website/home/week/1">Coursera Build your first React Website</a>
+  - ## <a href="https://www.coursera.org/learn/build-first-react-website/home/week/1">Coursera Build your first React Website</a>
 
 <hr>
 
@@ -155,9 +137,27 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/brian.bauska/ target='_blank'">Join me (or not) on Facebook</a>
 
-### How to get GREED out of America and save humanity (if successful, the World will most certainly follow)
+<h2>Cryptocurrencies</h2><h6> - the future (if we have one) of humanity</h6>
 
-### Cryptocurrencies - the future (if we have one) of humanity.
+<h2>Berkeley Courses on Bitcoin and Cryptocurrencies</h2>
+
+  - ## [CS198.1x github](https://github.com/bbauska/CS198.1x/)
+
+  - ## *<a href="https://cs1981x.bbauska.net">cs198.1x Berkeley Bitcoin and Cryptocurrencies</a>*
+
+  - ## [CS198.2x github](https://github.com/bbauska/CS198.2x/)
+
+  - ## *<a href="https://cs1982x.bbauska.net">cs198.2x Berkeley Blockchain Technology</a>*
+
+<h2>Hyperledger Blockchain Technology</h2>
+
+  - ### [LFS170x Blockchain: Understanding It's Uses and Implications](https://lfs170x.bauska.org)
+
+  - ### [LFS171x Introduction to Hyperledger Blockchain Technology](https://lfs171x.bauska.org)
+
+<hr>
+
+### How to get GREED out of America and save humanity (if successful, the World will most certainly follow)
 
 <!-- display the social media buttons in your README -->
 
