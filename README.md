@@ -21,17 +21,14 @@ Here are some ideas to get you started:
 ### '3rd' party systems; SAP, Cognos, IBM, Hewlett-Packard, Digital Equipment Corporation (now defunct), Samsung, Canon.
 ### and, PAUSE, with a poker up my ass, I can type 70 wpm.
 
-## Web Hooks - the Definitive Guide
-https://requestbin.com/blog/working-with-webhooks/
-
 ### Cellardoor
 https://github.com/bbauska/cellardoor
 
+### In Though the OutDoor
+https://github.com/bbauska/inthroughtheoutdoor
+
 ### Here
 https://github.com/bbauska/bbauska
-
-### IBM Cognos websites/training/affiliates/links
-https://techvidyaa.com/cognos-training/
 
 ### How to survive using *choke* *cough* affiliate marketing.  Yes, i've done it.  i've sold my soul.
 https://onehourprofessor.com/how-to-make-money-on-audible/
@@ -50,7 +47,9 @@ https://onehourprofessor.com/how-to-make-money-on-audible/
 8. [W3Cx](https://www.edx.org/school/w3cx)
 9. [IBM's Blockchain](https://learning.edx.org/course/course-v1:IBM+IBMBCC001+1T2022/home)
 10. [mdn Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
-11. and the rest...
+11. [Web Hooks](https://requestbin.com/blog/working-with-webhooks/)
+12. [IBM Cognos websites/training/affiliates/links](https://techvidyaa.com/cognos-training/)
+13. and the rest...
 
 ###
 [Free Code Camp - Frontend Development](https://github.com/freeCodeCamp/freeCodeCamp)
@@ -62,10 +61,6 @@ https://onehourprofessor.com/how-to-make-money-on-audible/
 
 [Pen IO](https://codepen.io/fossheim/pen/PoqKoLY)
 
-[Cellar Door](https://github.com/bbauska/cellardoor)
-
-[InThoughtheOutDoor](https://github.com/bbauska/inthroughtheoutdoor)
-
 [8 Steps to Publish Blog on GitHub](https://medium.com/tunapanda-institute/8-steps-to-publish-your-portfolio-on-github-9d6e6e3d2e84)
 
 [Awesome BigData](https://github.com/bbauska/awesome-bigdata/blob/main/README.md)
@@ -74,41 +69,41 @@ https://onehourprofessor.com/how-to-make-money-on-audible/
 
 <h2>Berkeley Courses on Bitcoin and Cryptocurrencies</h2>
 
-### [CS198.1x github](https://github.com/bbauska/CS198.1x/)
+  - ### [CS198.1x github](https://github.com/bbauska/CS198.1x/)
 
-### *<a href="https://cs1981x.bbauska.net">cs198.1x Berkeley Bitcoin and Cryptocurrencies</a>*
+  - ### *<a href="https://cs1981x.bbauska.net">cs198.1x Berkeley Bitcoin and Cryptocurrencies</a>*
 
-### [CS198.2x github](https://github.com/bbauska/CS198.2x/)
+  - ### [CS198.2x github](https://github.com/bbauska/CS198.2x/)
 
-### *<a href="https://cs1982x.bbauska.net">cs198.2x Berkeley Blockchain Technology</a>*
+  - ### *<a href="https://cs1982x.bbauska.net">cs198.2x Berkeley Blockchain Technology</a>*
 
 <h2>Hyperledger Blockchain Technology</h2>
 
-### [LFS170x Blockchain: Understanding It's Uses and Implications](https://lfs170x.bauska.org)
+  - ### [LFS170x Blockchain: Understanding It's Uses and Implications](https://lfs170x.bauska.org)
 
-### [LFS171x Introduction to Hyperledger Blockchain Technology](https://lfs171x.bauska.org)
+  - ### [LFS171x Introduction to Hyperledger Blockchain Technology](https://lfs171x.bauska.org)
 
 <hr>
 
 <h2>REACT JS - let's get on it</h2>
 
-### [Geeks for Geeks](https://github.com/bbauska/G4G-REACT)
-### [How-to Geek](https://github.com/bbauska/inthroughtheoutdoor)
+  - ### [Geeks for Geeks](https://github.com/bbauska/G4G-REACT)
+  - ### [How-to Geek](https://github.com/bbauska/inthroughtheoutdoor)
 
 <hr>
 
 <h2>Web Development from W3C</h2>
 
-### <a href="https://w3cx-1of5.bauska.org">W3Cx-1of5-CSS.0x</a>
-### <a href="https://bbauska.github.io/w3cx-1of5-css.0x/">W3Cx-1of5-CSS.0x</a>
+  - ### <a href="https://w3cx-1of5.bauska.org">W3Cx-1of5-CSS.0x</a>
+  - ### <a href="https://bbauska.github.io/w3cx-1of5-css.0x/">W3Cx-1of5-CSS.0x</a>
 
-### <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">github W3Cx-1of5-CSS.0x</a>
+  - ### <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">github W3Cx-1of5-CSS.0x</a>
 
 <hr>
 
-### <a href="https://w3Cx-2of5.bauska.org/">W3Cx-2of5-HTM5.0x</a>
-### <a href="https://bbauska.github.io/w3Cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0x</a>
-### <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Cx-2of5-HTML5.0x</a>
+  - ### <a href="https://w3Cx-2of5.bauska.org/">W3Cx-2of5-HTM5.0x</a>
+  - ### <a href="https://bbauska.github.io/w3Cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0x</a>
+  - ### <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Cx-2of5-HTML5.0x</a>
 
 <hr>
 
