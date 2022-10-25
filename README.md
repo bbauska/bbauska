@@ -107,41 +107,41 @@ https://onehourprofessor.com/how-to-make-money-on-audible/
 
 <hr>
 
-### [W3Cx-3of5-HTML5.1x](https://w3Cx-3of5.bauska.org/)
+  - ### [W3Cx-3of5-HTML5.1x](https://w3Cx-3of5.bauska.org/)
 
-### <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">W3Cx-3of5-HTML5.1x</a>
+  - ### <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">W3Cx-3of5-HTML5.1x</a>
 
-### <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">github w3cx-3of5-HTML5.1x</a>
-
-<hr>
-
-### [W3Cx-4of5-HTML5.2x](https://w3cx-4of5.bauska.org/)
-
-### <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">W3Cx-4of5-HTML5.2x</a>
-
-### <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">github w3cx-4of5-HTML5.2x</a>
+  - ### <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">github w3cx-3of5-HTML5.1x</a>
 
 <hr>
 
-### <a href="https://w3cx-5of5.bauska.org/">W3Cx-5of5-JS.0x</a>
+  - ### [W3Cx-4of5-HTML5.2x](https://w3cx-4of5.bauska.org/)
 
-### <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0x</a>
+  - ### <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">W3Cx-4of5-HTML5.2x</a>
 
-### <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">github w3cx-5of5-JS.0x</a>
+  - ### <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">github w3cx-4of5-HTML5.2x</a>
+
+<hr>
+
+  - ### <a href="https://w3cx-5of5.bauska.org/">W3Cx-5of5-JS.0x</a>
+
+  - ### <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0x</a>
+
+  - ### <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">github w3cx-5of5-JS.0x</a>
 
 <hr>
 
 <h2>Web Development from Coursera</h2>
 
-### <a href="https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm">Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
+  - ### <a href="https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm">Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
 
-### <a href="https://github.com/bbauska/front-end-web-ui">github Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
+  - ### <a href="https://github.com/bbauska/front-end-web-ui">github Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
 <br/>
 
-### <a href="https://www.coursera.org/learn/front-end-react/home/info">Coursera Front-End Web Deveopment with React</a>
+  - ### <a href="https://www.coursera.org/learn/front-end-react/home/info">Coursera Front-End Web Deveopment with React</a>
 <br/>
 
-### <a href="https://www.coursera.org/learn/build-first-react-website/home/week/1">Coursera Build your first React Website</a>
+  - ### <a href="https://www.coursera.org/learn/build-first-react-website/home/week/1">Coursera Build your first React Website</a>
 
 <hr>
 
