@@ -97,12 +97,14 @@ Here are some ideas to get you started:
   - ### <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">github W3Cx-1of5-CSS.0x</a>
 
 <hr>
+
 ## HTML5.0 - Hypertext Markup Language - Introduction
   - ### <a href="https://w3Cx-2of5.bauska.org/">W3Cx-2of5-HTM5.0x</a>
   - ### <a href="https://bbauska.github.io/w3Cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0x</a>
   - ### <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Cx-2of5-HTML5.0x</a>
 
 <hr>
+
 ## HTML5.1 - Hypertext Markup Language - Intermediate
 
   - ### [W3Cx-3of5-HTML5.1x](https://w3Cx-3of5.bauska.org/)
@@ -112,6 +114,7 @@ Here are some ideas to get you started:
   - ### <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">github w3cx-3of5-HTML5.1x</a>
 
 <hr>
+
 ## HTML5.2 - Hypertext Markup Language - Advanced
 
   - ### [W3Cx-4of5-HTML5.2x](https://w3cx-4of5.bauska.org/)
@@ -121,6 +124,7 @@ Here are some ideas to get you started:
   - ### <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">github w3cx-4of5-HTML5.2x</a>
 
 <hr>
+
 ## JS - JavaScript
 
   - ### <a href="https://w3cx-5of5.bauska.org/">W3Cx-5of5-JS.0x</a>
