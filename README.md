@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 ### '3rd' party systems; SAP, Cognos, IBM, Hewlett-Packard, Digital Equipment Corporation (now defunct), Samsung, Canon.
 ### and, PAUSE, with a poker up my ass, I can type 70 wpm.
 
+### Cellardoor
+https://github.com/bbauska/cellardoor
+
 ### IBM Cognos websites/training/affiliates/links
 https://techvidyaa.com/cognos-training/
 
