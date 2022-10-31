@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Best Trainers on the Web
 1. [Coursera](https://www.coursera.org/)
-2. [Front end Web UI Frameworks & Tools: Bootstrap 4](Coursera-web.bauska.net)
+2. [Front end Web UI Frameworks & Tools: Bootstrap 4](https://github.com/bbauska/Coursera-Bootstrap)
 2. [Front end Web Development with React](https://www.coursera.org/learn/front-end-react)
 3. [edX](https://www.edx.org/)
 4. [edX Make your own Chat App](https://learning.edx.org/course/course-v1:TUMx+MYOAx+2T2022/home)
