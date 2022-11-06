@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   - Charts
   - Drill-down
   
-### [In Though the OutDoor](https://github.com/bbauska/inthroughtheoutdoor)
+### [In Through the OutDoor](https://github.com/bbauska/inthroughtheoutdoor)
 
 ### [We (bbauska) Are Here](https://github.com/bbauska/bbauska)
 
