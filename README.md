@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
 ### [In Though the OutDoor](https://github.com/bbauska/inthroughtheoutdoor)
 
-### [Here](https://github.com/bbauska/bbauska)
+### [We (bbauska) Are Here](https://github.com/bbauska/bbauska)
 
 ### How to survive using *choke* *cough* affiliate marketing.  Yes, i've done it.  [i've sold my soul](https://onehourprofessor.com/how-to-make-money-on-audible/)
 
