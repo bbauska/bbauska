@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 
 ### [Cellardoor](https://github.com/bbauska/cellardoor)
 
+### [IBM Cognos Analytics](https://myibm.ibm.com/dashboard/)
+  - Load Data
+  - Generate Dashboard
+  - Cubes
+  - Reports
+  - Charts
+  - Drill-down
+  
 ### [In Though the OutDoor](https://github.com/bbauska/inthroughtheoutdoor)
 
 ### [Here](https://github.com/bbauska/bbauska)
