@@ -37,11 +37,9 @@ Here are some ideas to get you started:
 
 ### [We (bbauska) Are Here](https://github.com/bbauska/bbauska)
 
-### How to survive using *choke* *cough* affiliate marketing.  Yes, i've done it.  [i've sold my soul](https://onehourprofessor.com/how-to-make-money-on-audible/)
-
 ### Cryptocurrencies - the future (if we have one) of humanity.
 
-### Best Trainers on the Web
+### Best (sometimes only worthwhile) Trainers on the Web
 1. [Coursera](https://www.coursera.org/)
 2. [Front end Web UI Frameworks & Tools: Bootstrap 4](https://github.com/bbauska/Coursera-Bootstrap)
 2. [Front end Web Development with React](https://www.coursera.org/learn/front-end-react)
