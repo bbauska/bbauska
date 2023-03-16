@@ -17,14 +17,21 @@ div.sticky {
   position: sticky;
   top: 0;
   
-  background-color: crimson;
-  padding: 30px;
-  font-size: 26px;
+  background-color: indianred;
+  padding: 20px;
+  font-size: 20px;
 }
 </style>
+...
+<body>
+<h2>Sticky Element: Scroll Down to See the Effect</h2>
+<p>Scroll down this page to see how  sticky positioning works.</p>
+<div class="sticky">I will stick to the screen when you reach my scroll position</div>
 ```
-creates;
-![image](https://user-images.githubusercontent.com/41387907/225770502-7ad811e4-8293-414a-b35b-202e46be21fb.png)
+
+creates;<br>
+
+<a href="https://user-images.githubusercontent.com/41387907/225770502-7ad811e4-8293-414a-b35b-202e46be21fb.png">No comment</a>
 
 - use cad101en for "green button" & "top".
 - avenger for scss, less, and css related.
