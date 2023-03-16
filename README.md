@@ -23,6 +23,8 @@ div.sticky {
 }
 </style>
 ```
+creates;
+![image](https://user-images.githubusercontent.com/41387907/225770502-7ad811e4-8293-414a-b35b-202e46be21fb.png)
 
 - use cad101en for "green button" & "top".
 - avenger for scss, less, and css related.
