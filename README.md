@@ -1,6 +1,14 @@
 ###  
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
+###> $ speedtest
+- download 31 mb/s
+- upload 2 mb/s
+
+todo: add sticky
+use cad101en for "green button" & "top"<br><br>
+is scss being utilized often enough?  If not, remove from web sites.<br>
+
 <!---
 ### Hi there 👋
 --->
