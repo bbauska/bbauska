@@ -30,8 +30,7 @@ div.sticky {
 ```
 
 creates;<br>
-
-<a href="https://user-images.githubusercontent.com/41387907/225770502-7ad811e4-8293-414a-b35b-202e46be21fb.png">No comment</a>
+<a href="https://user-images.githubusercontent.com/41387907/225771218-2657e0eb-6eca-4df8-a390-fa01eaa0191a.png">Sticky note sample</a>
 
 - use cad101en for "green button" & "top".
 - avenger for scss, less, and css related.
@@ -42,6 +41,7 @@ creates;<br>
   - provide access to music database.
   - provide access to movie database (tmdb.org) for other background options (yes/no/maybe?)
   - count (live) of views for the same live video of aurora borealis (northern lights) from finland.
+  - count (live) of subscribers to both Silus Gaming World & Silus Spider.
   - 
 <!---
 ### Hi there 👋
