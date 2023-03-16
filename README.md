@@ -1,7 +1,7 @@
 ###  
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
-###> $ speedtest
+### > $ speedtest
 - download 31 mb/s
 - upload 2 mb/s
 
