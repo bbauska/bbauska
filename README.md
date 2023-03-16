@@ -7,6 +7,23 @@
 
 #### todo: 
 - add sticky notes to banner menu.
+- sticky banner,
+  - for example;<br>
+
+```
+<style>
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  
+  background-color: crimson;
+  padding: 30px;
+  font-size: 26px;
+}
+</style>
+```
+
 - use cad101en for "green button" & "top".
 - avenger for scss, less, and css related.
 - brians-resume.bauska.org for social icons - as well as the one i'm on now; https://github.com/bbauska/bbauska/edit/main/README.md.
