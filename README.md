@@ -1,14 +1,22 @@
 ###  
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
-### > $ speedtest
+#### $ speedtest
 - download 31 mb/s
 - upload 2 mb/s
 
-todo: add sticky
-use cad101en for "green button" & "top"<br><br>
-is scss being utilized often enough?  If not, remove from web sites.<br>
-
+#### todo: 
+- add sticky notes to banner menu.
+- use cad101en for "green button" & "top".
+- avenger for scss, less, and css related.
+- brians-resume.bauska.org for social icons - as well as the one i'm on now; https://github.com/bbauska/bbauska/edit/main/README.md.
+- is scss being utilized often enough?  If not, remove from web sites.
+- silus youtube video subscriber count.
+  - background music (harry nillsson - nillson, schmillson - pop music primariy.  change it up.
+  - provide access to music database.
+  - provide access to movie database (tmdb.org) for other background options (yes/no/maybe?)
+  - count (live) of views for the same live video of aurora borealis (northern lights) from finland.
+  - 
 <!---
 ### Hi there 👋
 --->
