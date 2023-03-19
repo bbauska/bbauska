@@ -12,16 +12,16 @@
 
 ### 10 JavaScript Library/Framework
 
-- React by Facebook - https://react.dev
-- Angular by Google - https://angular.io
-- VueJS - https://vuejs.org/
-- JQuery - https://jquery.com
-- EmberJS - https://emberjs.com/
-- BackboneJS - https://backbonejs.org/
-- Svelte - svelte.dev
-- Semantic UI - https://semantic-ui.com/
-- Foundation - https://get.foundation/sites/docs-v5/
-- Preact - https://github.com/preactjs/preact
+- [!React by Facebook](https://react.dev)
+- [!Angular by Google](https://angular.io)
+- [!VueJS](https://vuejs.org/)
+- [!JQuery](https://jquery.com)
+- [!EmberJS](https://emberjs.com/)
+- [!BackboneJS](https://backbonejs.org/)
+- [!Svelte](https://svelte.dev/)
+- [!Semantic UI](https://semantic-ui.com/)
+- [!Foundation](https://get.foundation/sites/docs-v5/)
+- [!Preact](https://github.com/preactjs/preact)
 
 ```
 <style>
