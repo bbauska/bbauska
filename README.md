@@ -1,7 +1,7 @@
 ###  
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
-#### $ speedtest
+#### $ speedtest - pathetic
 - download 31 mb/s
 - upload 2 mb/s
 
@@ -9,6 +9,20 @@
 - add sticky notes to banner menu.
 - sticky banner,
   - for example;<br>
+
+### 10 JavaScript Library/Framework
+
+- React - facebook
+- Angular - google
+- VueJS - 
+- JQuery - 
+- EmberJS - 
+- BackboneJS - 
+- Svelte - 
+- Semantic UI - 
+- Foundation - 
+- Preact - 
+
 
 ```
 <style>
