@@ -1,9 +1,11 @@
 ###  
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
+<!--
 #### $ speedtest - pathetic
-- download 31 mb/s
+- download 35.5 mb/s
 - upload 2 mb/s
+-->
 
 #### todo: 
 - add sticky notes to banner menu.
