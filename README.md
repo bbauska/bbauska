@@ -140,7 +140,6 @@ Here are some ideas to get you started:
 ## CSS3.0 - Cascade Style Sheet
   - ### <a href="https://w3cx-1of5.bauska.org">W3Cx-1of5-CSS.0x</a>
   - ### <a href="https://bbauska.github.io/w3cx-1of5-css.0x/">W3Cx-1of5-CSS.0x</a>
-
   - ### <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">github W3Cx-1of5-CSS.0x</a>
 
 <hr>
@@ -155,9 +154,7 @@ Here are some ideas to get you started:
 ## HTML5.1 - Hypertext Markup Language - Intermediate
 
   - ### [W3Cx-3of5-HTML5.1x](https://w3Cx-3of5.bauska.org/)
-
   - ### <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">W3Cx-3of5-HTML5.1x</a>
-
   - ### <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">github w3cx-3of5-HTML5.1x</a>
 
 <hr>
@@ -165,9 +162,7 @@ Here are some ideas to get you started:
 ## HTML5.2 - Hypertext Markup Language - Advanced
 
   - ### [W3Cx-4of5-HTML5.2x](https://w3cx-4of5.bauska.org/)
-
   - ### <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">W3Cx-4of5-HTML5.2x</a>
-
   - ### <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">github w3cx-4of5-HTML5.2x</a>
 
 <hr>
@@ -175,9 +170,7 @@ Here are some ideas to get you started:
 ## JS - JavaScript
 
   - ### <a href="https://w3cx-5of5.bauska.org/">W3Cx-5of5-JS.0x</a>
-
   - ### <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0x</a>
-
   - ### <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">github w3cx-5of5-JS.0x</a>
 
 <hr>
@@ -198,7 +191,7 @@ Here are some ideas to get you started:
 
 <h3>My Resume</h3>
 
-<a href="https://brians-resume.bauska.net/">Brian's Resume</a>
+<a href="https://brians-resume.bauska.site/">Brian's Resume</a>
 
 <a href="https://www.facebook.com/brian.bauska/ target='_blank'">Join me (or not) on Facebook</a>
 
