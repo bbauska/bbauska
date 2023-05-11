@@ -52,9 +52,9 @@ creates;<br>
 - brians-resume.bauska.org for social icons - as well as <a href="https://github.com/bbauska/bbauska/edit/main/README.md">the one i'm on now;</a>.
 - is scss being utilized often enough?  If not, remove from web sites.
 - silus youtube video subscriber count.
-  - background music (harry nillsson - nillson, schmillson - pop music primariy.  change it up.
+  - background music: harry nillsson - nillson, schmillson - pop music primariy.  change it up.
   - provide access to music database.
-  - provide access to movie database (tmdb.org) for other background options (yes/no/maybe?)
+  - provide access to movie database (tmdb.org) for other background options (yes/no/maybe?).
   - count (live) of views for the same live video of aurora borealis (northern lights) from finland.
   - count (live) of subscribers to both Silus Gaming World & Silus Spider.
   - 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...how to be a better person, grandfather, father
 - 👯 I’m looking to collaborate on ...deliveries
 - 🤔 I’m looking for help with ...which front-end web turn-key apps are best
-- 💬 Ask me about ...nada
+- 💬 Ask me about ...'R', React, CSS, JavaScript for Front-End Web Development
 - 📫 How to reach me: ...brianbauska@gmail.com
 - 😄 Pronouns: ...Gleeful, possessive (my,our,yours,his,hers)
 - ⚡ Fun fact: ...Over 2,000 atomic bombs were 'tested' Worldwide since 1944.  Not fun, but still a fact.
