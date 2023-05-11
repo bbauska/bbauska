@@ -191,7 +191,7 @@ Here are some ideas to get you started:
 
 <h3>My Resume</h3>
 
-<a href="https://brians-resume.bauska.site/">Brian's Resume</a>
+<a href="https://brians-resume.bauska.org/">Brian's Resume</a>
 
 <a href="https://www.facebook.com/brian.bauska/ target='_blank'">Join me (or not) on Facebook</a>
 
