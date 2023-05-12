@@ -82,6 +82,24 @@ Here are some ideas to get you started:
 
 ### [Cellardoor](https://github.com/bbauska/cellardoor)
 
+### [meta Front-End Web Development](https://github.com/ginny100/Meta-Front-End-Developer)
+  - Introduction to Front-End Development
+  - Programming with JavaScript
+  - Version Control (git/github/gitlab)
+  - HTML and CSS in depth
+  - React Basics
+  - Advanced React
+  - Principles of UX/UI Design
+
+### [IBM Front-End Web Development](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
+  - [Introduction to Web Development with HTML, CSS and JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-frontend-developer)
+  - [Getting Started with Git and Github](https://www.coursera.org/learn/getting-started-with-git-and-github?specialization=ibm-frontend-developer)
+  - [Developing Cloud Native Applications](https://www.coursera.org/learn/developing-cloud-native-applications?specialization=ibm-frontend-developer)
+  - [Developing Front-End Apps with React](https://www.coursera.org/learn/developing-frontend-apps-with-react?specialization=ibm-frontend-developer)
+  - [Designing User Interfaces and Experiences (UI/UX)](https://www.coursera.org/learn/designing-user-interfaces-and-experiences-uiux?specialization=ibm-frontend-developer)
+  - [Intermediate Web and Front-End Development](https://www.coursera.org/learn/intermediate-web-and-front-end-development?specialization=ibm-frontend-developer)
+  - [Front-End Development - Capstone Project](https://www.coursera.org/learn/front-end-development-capstone-project?specialization=ibm-frontend-developer)
+
 ### [IBM Cognos Analytics](https://myibm.ibm.com/dashboard/)
   - Load Data
   - Generate Dashboard
