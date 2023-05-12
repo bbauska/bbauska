@@ -93,6 +93,8 @@ Here are some ideas to get you started:
 
 ### [IBM Front-End Web Development](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
   - [Introduction to Web Development with HTML, CSS and JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-frontend-developer)
+  - [Intro to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development/home/week/1)
+  - [---]
   - [Getting Started with Git and Github](https://www.coursera.org/learn/getting-started-with-git-and-github?specialization=ibm-frontend-developer)
   - [Developing Cloud Native Applications](https://www.coursera.org/learn/developing-cloud-native-applications?specialization=ibm-frontend-developer)
   - [Developing Front-End Apps with React](https://www.coursera.org/learn/developing-frontend-apps-with-react?specialization=ibm-frontend-developer)
