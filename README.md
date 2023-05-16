@@ -2,9 +2,9 @@
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
 <!--
-#### $ speedtest - pathetic
-- download 35.5 mb/s
-- upload 2 mb/s
+#### $ speedtest - quite good
+- download 55.5 mb/s
+- upload 20 mb/s
 -->
 
 #### todo: 
