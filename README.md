@@ -84,12 +84,14 @@ Here are some ideas to get you started:
 
 ### [meta Front-End Web Development](https://github.com/ginny100/Meta-Front-End-Developer)
   - [x] [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer&utm_source=bg&utm_medium=sem&utm_campaign=B2C_NAMER_meta-front-end-developer_meta_FTCOF_professional-certificates_facebook-meta-country-US-country-CA&utm_content=B2C_NAMER_meta-front-end-developer_meta_FTCOF_professional-certificates&campaignid=433293258&adgroupid=1243548300717457&device=c&keyword=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-to-front-end-development%3Fspecialization%3Dmeta-front-end-developer&matchtype=b&network=s&devicemodel=&adpostion=&creativeid=&hide_mobile_promo&msclkid=3f16699b071118e3a1d10df8fe1892c7&utm_term=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-to-front-end-development%3Fspecialization%3Dmeta-front-end-developer)
-- [ ] Programming with JavaScript
-- [ ] Version Control (git/github/gitlab)
-- [x] HTML and CSS in depth
-- [x] React Basics
-- [ ] Advanced React
-- [ ] Principles of UX/UI design
+- [ ] [Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript)
+- [ ] [Introduction to Version Control (git/github/gitlab)](https://www.coursera.org/learn/introduction-to-version-control)
+- [x] [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth)
+- [x] [React Basics](https://www.coursera.org/learn/react-basics)
+- [ ] [Advanced React](https://www.coursera.org/learn/advanced-react)
+- [ ] [Principles of UX/UI design](https://www.coursera.org/learn/principles-of-ux-ui-design)
+- [x] [Front-End Web UI Frameworks & Tools: Bootstrap4](https://coursera-boot.bauska.org/)
+- [ ] [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design)
 
 ### [IBM Front-End Web Development](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
   - [Introduction to Web Development with HTML, CSS and JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-frontend-developer)
