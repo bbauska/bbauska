@@ -83,13 +83,13 @@ Here are some ideas to get you started:
 ### [Cellardoor](https://github.com/bbauska/cellardoor)
 
 ### [meta Front-End Web Development](https://github.com/ginny100/Meta-Front-End-Developer)
-  - Introduction to Front-End Development
-  - Programming with JavaScript
-  - Version Control (git/github/gitlab)
-  - HTML and CSS in depth
-  - React Basics
-  - Advanced React
-  - Principles of UX/UI Design
+  - [x] Introduction to Front-End Development
+- [ ] Programming with JavaScript
+- [ ] Version Control (git/github/gitlab)
+- [x] HTML and CSS in depth
+- [x] React Basics
+- [ ] Advanced React
+- [ ] Principles of UX/UI design
 
 ### [IBM Front-End Web Development](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
   - [Introduction to Web Development with HTML, CSS and JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-frontend-developer)
