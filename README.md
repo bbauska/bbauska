@@ -222,11 +222,11 @@ Here are some ideas to get you started:
 
   - ## [CS198.1x github](https://github.com/bbauska/CS198.1x/)
 
-  - ## *<a href="https://cs1981x.bbauska.net">cs198.1x Berkeley Bitcoin and Cryptocurrencies</a>*
+  - ## *<a href="https://cs1981x.bbauska.org">cs198.1x Berkeley Bitcoin and Cryptocurrencies</a>*
 
   - ## [CS198.2x github](https://github.com/bbauska/CS198.2x/)
 
-  - ## *<a href="https://cs1982x.bbauska.net">cs198.2x Berkeley Blockchain Technology</a>*
+  - ## *<a href="https://cs1982x.bbauska.org">cs198.2x Berkeley Blockchain Technology</a>*
 
 <h2>Hyperledger Blockchain Technology</h2>
 
