@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 - [ ] [Principles of UX/UI design](https://www.coursera.org/learn/principles-of-ux-ui-design)
 - [x] [Front-End Web UI Frameworks & Tools: Bootstrap4](https://coursera-boot.bauska.org/)
 - [ ] [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design)
+- [ ] [Silus Photo Gallery](https://github.com/bbauska/silus-photo)
 
 ### [IBM Front-End Web Development](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
   - [Introduction to Web Development with HTML, CSS and JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-frontend-developer)
