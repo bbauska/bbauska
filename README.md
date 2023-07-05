@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 - [ ] [Principles of UX/UI design](https://www.coursera.org/learn/principles-of-ux-ui-design)
 - [x] [Front-End Web UI Frameworks & Tools: Bootstrap4](https://coursera-boot.bauska.org/)
 - [ ] [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design)
-- [ ] [Silus Photo Gallery](https://github.com/bbauska/silus-photo)
+- [x] [Silus Photo Gallery](https://github.com/bbauska/silus-photo)
 
 ### [IBM Front-End Web Development](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
   - [Introduction to Web Development with HTML, CSS and JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-frontend-developer)
@@ -304,3 +304,5 @@ Here are some ideas to get you started:
 [11:1]: https://github.com/bbauska/bbauska/blob/main/images/11-linkedin.png?raw=true (linkedin icon)
 [12:1]: https://github.com/bbauska/bbauska/blob/main/images/12-indeed.png?raw=true (indeed icon)
 [13:1]: https://github.com/bbauska/bbauska/blob/main/images/13-quora.png?raw=true (quora icon)
+
+Next, create a sitemap.xml for the github.io project.
