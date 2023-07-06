@@ -1,9 +1,10 @@
 ###  
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
+## Microsoft Office 10 is a piece of shit.  11 is 11 times worst.  How does this company stay relevent?
 <!--
 #### $ speedtest - quite good
-- download 55.5 mb/s
+- download 90.0 mb/s
 - upload 20 mb/s
 -->
 
