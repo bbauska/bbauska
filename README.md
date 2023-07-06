@@ -58,7 +58,7 @@ creates;<br>
   - provide access to movie database (tmdb.org) for other background options (yes/no/maybe?).
   - count (live) of views for the same live video of aurora borealis (northern lights) from finland.
   - count (live) of subscribers to both Silus Gaming World & Silus Spider.
-  - 
+
 <!---
 ### Hi there 👋
 --->
@@ -96,6 +96,8 @@ Here are some ideas to get you started:
 - [x] [Front-End Web UI Frameworks & Tools: Bootstrap4](https://coursera-boot.bauska.org/)
 - [ ] [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design)
 - [x] [Silus Photo Gallery](https://github.com/bbauska/silus-photo)
+- [ ] [Kitterson Photo Gallery](https://gallery.bauska.org)
+- [ ] [Github - Kitterson Photo Gallery](https://github.com/bbauska/gallery)
 
 ### [IBM Front-End Web Development](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
   - [Introduction to Web Development with HTML, CSS and JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-frontend-developer)
