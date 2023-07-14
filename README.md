@@ -1,8 +1,10 @@
 ###  
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
-## Microsoft Windows 10 is a piece of shit.  It was when it came out and still is 30+ years, and hundreds of billion dollars later.  Windows 11 is 11 times worse.
+## Microsoft Windows 10 is a piece of shit.  It was when a piece of shit when it came out and still is 30+ years and hundreds of billion dollars later.  Windows 11 is 11 times worse.
+
 How does this company stay relevant?
+
 <!--
 #### $ speedtest - quite good
 - download 90.0 mb/s
