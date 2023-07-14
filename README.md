@@ -51,7 +51,7 @@ div.sticky {
 ```
 
 creates;<br>
-<a href="https://user-images.githubusercontent.com/41387907/225771218-2657e0eb-6eca-4df8-a390-fa01eaa0191a.png">Sticky note sample</a>
+<a href="https://user-images.githubusercontent.com/41387907/225771218-2657e0eb-6eca-4df8-a390-fa01eaa0191a.png" target="_blank">Sticky note sample</a>
 
 - use cad101en for "green button" & "top".
 - avenger for scss, less, and css related.
@@ -170,62 +170,62 @@ Here are some ideas to get you started:
 <h1>Web Development from W3C</h1>
 
 ## CSS3.0 - Cascade Style Sheet
-  - ### <a href="https://w3cx-1of5.bauska.org">W3Cx-1of5-CSS.0x</a>
-  - ### <a href="https://bbauska.github.io/w3cx-1of5-css.0x/">W3Cx-1of5-CSS.0x</a>
-  - ### <a href="https://github.com/bbauska/W3Cx-1of5-css.0x">github W3Cx-1of5-CSS.0x</a>
+  - ### <a href="https://w3cx-1of5.bauska.org" target="_blank">W3Cx-1of5-CSS.0x</a>
+  - ### <a href="https://bbauska.github.io/w3cx-1of5-css.0x/" target="_blank">W3Cx-1of5-CSS.0x</a>
+  - ### <a href="https://github.com/bbauska/W3Cx-1of5-css.0x" target="_blank">github W3Cx-1of5-CSS.0x</a>
 
 <hr>
 
 ## HTML5.0 - Hypertext Markup Language - Introduction
-  - ### <a href="https://w3Cx-2of5.bauska.org/">W3Cx-2of5-HTM5.0x</a>
-  - ### <a href="https://bbauska.github.io/w3Cx-2of5-html5.0x/">W3Cx-2of5-HTML5.0x</a>
-  - ### <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x">github W3Cx-2of5-HTML5.0x</a>
+  - ### <a href="https://w3Cx-2of5.bauska.org/" target="_blank">W3Cx-2of5-HTM5.0x</a>
+  - ### <a href="https://bbauska.github.io/w3Cx-2of5-html5.0x/" target="_blank">W3Cx-2of5-HTML5.0x</a>
+  - ### <a href="https://github.com/bbauska/W3Cx-2of5-HTML5.0x" target="_blank">github W3Cx-2of5-HTML5.0x</a>
 
 <hr>
 
 ## HTML5.1 - Hypertext Markup Language - Intermediate
 
   - ### [W3Cx-3of5-HTML5.1x](https://w3Cx-3of5.bauska.org/)
-  - ### <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/">W3Cx-3of5-HTML5.1x</a>
-  - ### <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x">github w3cx-3of5-HTML5.1x</a>
+  - ### <a href="https://bbauska.github.io/w3cx-3of5-html5.1x/" target="_blank">W3Cx-3of5-HTML5.1x</a>
+  - ### <a href="https://github.com/bbauska/W3Cx-3of5-HTML5.1x" target="_blank">github w3cx-3of5-HTML5.1x</a>
 
 <hr>
 
 ## HTML5.2 - Hypertext Markup Language - Advanced
 
   - ### [W3Cx-4of5-HTML5.2x](https://w3cx-4of5.bauska.org/)
-  - ### <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/">W3Cx-4of5-HTML5.2x</a>
-  - ### <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x">github w3cx-4of5-HTML5.2x</a>
+  - ### <a href="https://bbauska.github.io/w3cx-4of5-html5.2x/" target="_blank">W3Cx-4of5-HTML5.2x</a>
+  - ### <a href="https://github.com/bbauska/W3Cx-4of5-HTML5.2x" target="_blank">github w3cx-4of5-HTML5.2x</a>
 
 <hr>
 
 ## JS - JavaScript
 
-  - ### <a href="https://w3cx-5of5.bauska.org/">W3Cx-5of5-JS.0x</a>
-  - ### <a href="https://bbauska.github.io/w3cx-5of5-js.0x/">W3Cx-5of5-JS.0x</a>
-  - ### <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x">github w3cx-5of5-JS.0x</a>
+  - ### <a href="https://w3cx-5of5.bauska.org/" target="_blank">W3Cx-5of5-JS.0x</a>
+  - ### <a href="https://bbauska.github.io/w3cx-5of5-js.0x/" target="_blank">W3Cx-5of5-JS.0x</a>
+  - ### <a href="https://github.com/bbauska/W3Cx-5of5-JS.0x" target="_blank">github w3cx-5of5-JS.0x</a>
 
 <hr>
 
 <h1>Web Development from Coursera</h1>
 
-  - ## <a href="https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm">Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
+  - ## <a href="https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm" target="_blank">Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
 
-  - ## <a href="https://github.com/bbauska/front-end-web-ui">github Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
+  - ## <a href="https://github.com/bbauska/front-end-web-ui" target="_blank">github Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
 <br/>
 
-  - ## <a href="https://www.coursera.org/learn/front-end-react/home/info">Coursera Front-End Web Deveopment with React</a>
+  - ## <a href="https://www.coursera.org/learn/front-end-react/home/info" target="_blank">Coursera Front-End Web Deveopment with React</a>
 <br/>
 
-  - ## <a href="https://www.coursera.org/learn/build-first-react-website/home/week/1">Coursera Build your first React Website</a>
+  - ## <a href="https://www.coursera.org/learn/build-first-react-website/home/week/1" target="_blank">Coursera Build your first React Website</a>
 
 <hr>
 
 <h3>My Resume</h3>
 
-<a href="https://brians-resume.bauska.org/">Brian's Resume</a>
+<a href="https://brians-resume.bauska.org/" target="_blank">Brian's Resume</a>
 
-<a href="https://www.facebook.com/brian.bauska/ target='_blank'">Join me (or not) on Facebook</a>
+<a href="https://www.facebook.com/brian.bauska/" target='_blank'">Join me (or not) on Facebook</a>
 
 <h2>Cryptocurrencies</h2><h6> - the future (if we have one) of humanity</h6>
 
@@ -237,7 +237,7 @@ Here are some ideas to get you started:
 
   - ## [CS198.2x github](https://github.com/bbauska/CS198.2x/)
 
-  - ## *<a href="https://cs1982x.bbauska.org">cs198.2x Berkeley Blockchain Technology</a>*
+  - ## *<a href="https://cs1982x.bbauska.org" target="_blank">cs198.2x Berkeley Blockchain Technology</a>*
 
 <h2>Hyperledger Blockchain Technology</h2>
 
