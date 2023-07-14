@@ -55,7 +55,7 @@ creates;<br>
 
 - use cad101en for "green button" & "top".
 - avenger for scss, less, and css related.
-- brians-resume.bauska.org for social icons - as well as <a href="https://github.com/bbauska/bbauska/edit/main/README.md">the one i'm on now;</a>.
+- brians-resume.bauska.org for social icons - as well as <a href="https://github.com/bbauska/bbauska/edit/main/README.md" target="_blank">the one i'm on now;</a>.
 - is scss being utilized often enough?  If not, remove from web sites.
 - silus youtube video subscriber count.
   - background music: harry nillsson - nillson, schmillson - pop music primariy.  change it up.
