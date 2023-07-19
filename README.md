@@ -13,11 +13,6 @@ DOS?  Which, by the way, they stole from DEC/UNIX.
 - upload 20 mb/s
 -->
 
-#### todo: 
-- add sticky notes to banner menu.
-- sticky banner,
-  - for example;<br>
-
 ![knowledge growth in c](https://github.com/bbauska/bbauska/assets/41387907/44a942ef-5b78-47cf-9394-d658b5987a65)
 
 ### 10 JavaScript Library/Framework
@@ -32,6 +27,11 @@ DOS?  Which, by the way, they stole from DEC/UNIX.
 - [Semantic UI](https://semantic-ui.com/)
 - [Foundation](https://get.foundation/sites/docs-v5/)
 - [Preact](https://github.com/preactjs/preact)
+
+#### todo: 
+- add sticky notes to banner menu.
+- sticky banner,
+  - for example;<br>
 
 ```
 <style>
