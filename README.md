@@ -3,8 +3,6 @@
 
 ## Microsoft Windows 10 is a piece of shit.  It was a piece of shit in 1985 when it came out and still is 38 years and hundreds of billion dollars later.  Windows 11 is 11 times worse.
 
-![knowledge growth in c](https://github.com/bbauska/bbauska/assets/41387907/44a942ef-5b78-47cf-9394-d658b5987a65)
-
 How does this company even stay relevant?
 
 DOS?  Which, by the way, they stole from DEC/UNIX.
@@ -19,6 +17,8 @@ DOS?  Which, by the way, they stole from DEC/UNIX.
 - add sticky notes to banner menu.
 - sticky banner,
   - for example;<br>
+
+![knowledge growth in c](https://github.com/bbauska/bbauska/assets/41387907/44a942ef-5b78-47cf-9394-d658b5987a65)
 
 ### 10 JavaScript Library/Framework
 
