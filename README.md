@@ -297,7 +297,7 @@ Here are some ideas to get you started:
 [8]: https://medium.com/@brianbauska
 [9]: https://codepen.io/BBauska
 [10]: https://instagram/BBauska
-[11]: https://linkedin.com/BBauska
+[11]: https://linkedin.com/BrianBauska
 [12]: https://indeed.com/BBauska
 [13]: https://www.quora.com/profile/Brian-Bauska
 
