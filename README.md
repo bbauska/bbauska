@@ -5,7 +5,7 @@
 
 How does this company even stay relevant?
 
-DOS?  Which, by the way, they stole from DEC/UNIX.
+DOS?  Which, by the way, they stole from DEC/UNIX.  Along with C, Pascal, Basic, Cobol which they stole from universities around America.
 
 ![knowledge growth in c](https://github.com/bbauska/bbauska/assets/41387907/44a942ef-5b78-47cf-9394-d658b5987a65)
 
