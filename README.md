@@ -78,9 +78,8 @@ Here are some ideas to get you started:
 ### Hi there <img src="https://github.com/bbauska/ufo/blob/main/images/60th%20Anniversary%20Of%20The%20Atomic%20Bomb%20Of%20Nagasaki.jpg?raw=true" width="30px">, I am Brian Bauska - I do data wrangling, 'R', (semi) Full-Stack Web Development, software development (the full monty) [see: SDLC], Oracle BI, Oracle PL/SQL, Transact SQL, TOAD, Discoverer, Git, and Data Warehousing using IBM's Cognos BI.  Specialist in Digital Equipment Corporation's VAX-11 and HP's HP3000 mini/micro computer lines of hardware along with Digital Command Language (DCL), Powerhouse (Cognos' 4th generation language) Quick/Quiz/QTP/Qdesign, Linux Ubuntu primarily but other flavors as well.
 ### Software systems for which I'm privy include; payroll, human resources, inventory management, warehouse management, and finance (in all its spendor).
 ### '3rd' party systems; SAP WMS, IBM Cognos Analytics (query studio, analysis studio, metric studio, event studio, ibm cognos viewer & powerplay studio), Hewlett-Packard image, Digital Equipment Corporation VAX/VMS, DCL, Cobol, Fortran, Pascal, Basic (DEC purchased/now defunct), Samsung, Canon.
-### and, PAUSE, with a white-hot poker near my eye, I can type 70 wpm.
 
-### In 1961, a band of scientists got together in the US and decided #1, aliens are an absolute certainty in the universe.  And #2, there are most probably between 30 and 40 MILLION species of Aliens in the Milky Way Galaxy ALONE.  Not to mention the other billion galaxies in the known universe.  Says alot...
+### In 1961, a band of scientists got together in the US and decided #1, aliens are an absolute certainty in the universe.  And #2, there are most probably between 30 and 40 MILLION species of Aliens in the Milky Way Galaxy.  1 galaxy of billions in the known universe.  Says alot...
 
 ### [Cellardoor](https://github.com/bbauska/cellardoor)
 
