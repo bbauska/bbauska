@@ -12,8 +12,11 @@ DOS?  Which, by the way, they stole from DEC/UNIX.
 - download 90.0 mb/s
 - upload 20 mb/s
 -->
-
+<p align="center">
+  alt="Knowledge growth in c."
 ![knowledge growth in c](https://github.com/bbauska/bbauska/assets/41387907/44a942ef-5b78-47cf-9394-d658b5987a65)
+  style="border: 2px solid  gray;" 
+  width="500" />
 
 ### 10 JavaScript Library/Framework
 
