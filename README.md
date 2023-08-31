@@ -1,7 +1,7 @@
 ###  
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
-## Microsoft Windows 10 is a piece of shit.  It was a piece of shit in 1985 when it came out and still is 38 years and hundreds of billion dollars later.  Windows 11 is 11 times worse.
+<!-- ## Microsoft Windows 10 is a piece of shit.  It was a piece of shit in 1985 when it came out and still is 38 years and hundreds of billion dollars later.  Windows 11 is 11 times worse. -->
 
 How does this company even stay relevant?
 
