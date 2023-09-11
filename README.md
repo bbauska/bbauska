@@ -223,7 +223,7 @@ Here are some ideas to get you started:
 
 <a href="https://brians-resume.bauska.org/" target="_blank">Brian's Resume</a>
 
-<a href="https://www.facebook.com/brian.bauska/" target='_blank'">Join me (or not) on Facebook</a>
+<a href="https://www.facebook.com/brian.bauska/" target="_blank">Join me (or not) on Facebook</a>
 
 <h2>Cryptocurrencies</h2><h6> - the future (if we have one) of humanity</h6>
 
