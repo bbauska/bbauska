@@ -87,22 +87,23 @@ Here are some ideas to get you started:
 ### [meta Front-End Web Development](https://github.com/ginny100/Meta-Front-End-Developer)
   - [ ] [CubeIt - Github](https://github.com/bbauska/cubeit),
   - [ ] [Say Hello - Github](https://github.com/bbauska/sayhello),
-  - [ ] [Introduction to Version Control (git/github/gitlab)](https://www.coursera.org/learn/introduction-to-version-control),
-  - [ ] [Getting Started with Git &amp; GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/home/week/1),
-  - [ ] [Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript),
-  - [ ] [edit IBM's Intermediate Web Development](https://github.com/bbauska/ibm-intermediate-web-dev),
+  - [ ] [meta/Coursera - Intro to Version Control (git/github/gitlab)](https://www.coursera.org/learn/introduction-to-version-control),
+  - [ ] [IBM/Coursera - Getting Started with Git &amp; GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/home/week/1),
+  - [ ] [meta/Coursera - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript),
+  - [ ] [edit - IBM's Intermediate Web Development](https://github.com/bbauska/ibm-intermediate-web-dev),
   - [ ] [Board - Libraries & Frameworks for Frontend Dev](https://www.coursera.org/learn/libraries-and-frameworks-for-frontend-development/lecture/into6/course-introduction),
-  - [ ] [Advanced React](https://www.coursera.org/learn/advanced-react),
+  - [ ] [meta/Coursera - Advanced React](https://www.coursera.org/learn/advanced-react),
   - [ ] [Principles of UX/UI design](https://www.coursera.org/learn/principles-of-ux-ui-design),
-  - [ ] [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design),
+  - [ ] [U-London/Coursera - Responsive Web Design](https://www.coursera.org/learn/responsive-web-design),
   - [ ] [Kitterson Photo Gallery](https://gallery.bauska.org),
   - [ ] [Github - Kitterson Photo Gallery](https://github.com/bbauska/gallery),
-  - [x] [IBM's Intermediate Web Development](https://www.coursera.org/learn/intermediate-web-and-front-end-development),
-  - [x] [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth),
-  - [x] [React Basics](https://www.coursera.org/learn/react-basics),
-  - [x] [Front-End Web UI Frameworks & Tools: Bootstrap4](https://coursera-boot.bauska.org/),
+  - [ ] [IBM/Coursera - Intermediate Web &amp; Front-end Development](https://www.coursera.org/learn/intermediate-web-and-front-end-development),
+  - [x] [meta/Coursera - HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth),
+  - [x] [meta/Coursera - React Basics](https://www.coursera.org/learn/react-basics),
+  - [x] [Hong-Kong Unv Science &amp; Technology/Coursera - Front-End Web UI Frameworks & Tools: Bootstrap4](https://coursera-boot.bauska.org/),
   - [x] [Silus Photo Gallery](https://github.com/bbauska/silus-photo),
   - [x] [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer&utm_source=bg&utm_medium=sem&utm_campaign=B2C_NAMER_meta-front-end-developer_meta_FTCOF_professional-certificates_facebook-meta-country-US-country-CA&utm_content=B2C_NAMER_meta-front-end-developer_meta_FTCOF_professional-certificates&campaignid=433293258&adgroupid=1243548300717457&device=c&keyword=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-to-front-end-development%3Fspecialization%3Dmeta-front-end-developer&matchtype=b&network=s&devicemodel=&adpostion=&creativeid=&hide_mobile_promo&msclkid=3f16699b071118e3a1d10df8fe1892c7&utm_term=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-to-front-end-development%3Fspecialization%3Dmeta-front-end-developer).
+
 ### [IBM Front-End Web Development](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
   - [Introduction to Web Development with HTML, CSS and JavaScript](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-frontend-developer)
   - [Intro to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development/home/week/1)
@@ -110,8 +111,8 @@ Here are some ideas to get you started:
   - [Developing Cloud Native Applications](https://www.coursera.org/learn/developing-cloud-native-applications?specialization=ibm-frontend-developer)
   - [Developing Front-End Apps with React](https://www.coursera.org/learn/developing-frontend-apps-with-react?specialization=ibm-frontend-developer)
   - [Designing User Interfaces and Experiences (UI/UX)](https://www.coursera.org/learn/designing-user-interfaces-and-experiences-uiux?specialization=ibm-frontend-developer)
-  - [Intermediate Web and Front-End Development](https://www.coursera.org/learn/intermediate-web-and-front-end-development?specialization=ibm-frontend-developer)
-  - [Front-End Development - Capstone Project](https://www.coursera.org/learn/front-end-development-capstone-project?specialization=ibm-frontend-developer)
+  - [IBM/Coursera - Intermediate Web and Front-End Development](https://www.coursera.org/learn/intermediate-web-and-front-end-development?specialization=ibm-frontend-developer)
+  - [Capstone Project/Coursera - Front-End Development](https://www.coursera.org/learn/front-end-development-capstone-project?specialization=ibm-frontend-developer)
 
 ### [IBM Cognos Analytics](https://myibm.ibm.com/dashboard/)
   - Load Data
