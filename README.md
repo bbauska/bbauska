@@ -1,10 +1,14 @@
+## Prepare me for my next <b>Data Analyst</b> job interview
+https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/
+
+
 ###  
 [![Jekyll site CI](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml/badge.svg)](https://github.com/bbauska/cellardoor/actions/workflows/jekyll.yml)
 
 # bbauska / bbauska
 <!-- ## Microsoft Windows 10 is a piece of shit.  It was a piece of shit in 1985 when it came out and still is 38 years and hundreds of billion dollars later.  Windows 11 is 11 times worse. -->
 
-How does this company even stay relevant?
+Microsoft...How does this company even stay relevant?
 
 DOS?  Which, by the way, they stole from DEC/UNIX.  Along with C, Pascal, Basic, Cobol which they stole from universities around America.
 
