@@ -4,12 +4,6 @@
 ## What to know - perhaps
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
-<p style="text-align:center">
-<img src="./images/soul.gif"
-  alt="Soul image"
-  width="400px;"/>
-</p>
-
 <h3>soul səʊl noun</h3>
 
 <ol>
