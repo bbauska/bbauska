@@ -81,10 +81,7 @@ creates;<br>
   - count (live) of views for the same live video of aurora borealis (northern lights) from finland.
   - count (live) of subscribers to both Silus Gaming World & Silus Spider.
 
-<!---
-### Hi there 👋
---->
-<!---
+<!--
 **bbauska/bbauska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...ufo/atom bomb = ufo.bauska.site
@@ -96,7 +93,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...Gleeful, possessive (my,our,yours,his,hers)
 - ⚡ Fun fact: ...Over 2,000 atomic bombs were 'tested' Worldwide since 1944.  Not fun, but still a fact.
 -->
-### Hi there <img src="https://github.com/bbauska/ufo/blob/main/images/60th%20Anniversary%20Of%20The%20Atomic%20Bomb%20Of%20Nagasaki.jpg?raw=true" width="30px">, I am Brian Bauska - I do data wrangling, 'R', (semi) Full-Stack Web Development, software development (the full monty) [see: SDLC], Oracle BI, Oracle PL/SQL, Transact SQL, TOAD, Discoverer, Git, and Data Warehousing using IBM's Cognos BI.  Specialist in Digital Equipment Corporation's VAX-11 and HP's HP3000 mini/micro computer lines of hardware along with Digital Command Language (DCL), Powerhouse (Cognos' 4th generation language) Quick/Quiz/QTP/Qdesign, Linux Ubuntu primarily but other flavors as well.
+
+### Hi there <img src="https://github.com/bbauska/ufo/blob/main/images/60th%20Anniversary%20Of%20The%20Atomic%20Bomb%20Of%20Nagasaki.jpg?raw=true" width="30px">, I am Brian Bauska - I do data wrangling, 'R', (semi) Full-Stack Web Development, software development (the full monty) [see: SDLC], Oracle BI, Oracle PL/SQL, Transact SQL, TOAD, Discoverer, Git, and Data Warehousing using IBM's Cognos BI.  Specialist in Digital Equipment Corporation's VAX-11 and HP's HP3000 &amp; HP9000 computer lines of hardware along with Digital Command Language (DCL), Powerhouse (Cognos' 4th generation language-Like React for JavaScript) Quick/Quiz/QTP/Qdesign, Linux Ubuntu primarily but other linux flavors as well.
 ### Software systems for which I'm privy include; payroll, human resources, inventory management, warehouse management, and finance (in all its spendor).
 ### '3rd' party systems; SAP WMS, IBM Cognos Analytics (query studio, analysis studio, metric studio, event studio, ibm cognos viewer & powerplay studio), Hewlett-Packard image, Digital Equipment Corporation VAX/VMS, DCL, Cobol, Fortran, Pascal, Basic (DEC purchased/now defunct), Samsung, Canon.
 
