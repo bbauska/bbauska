@@ -107,6 +107,8 @@ Here are some ideas to get you started:
   - [ ] [Say Hello - Github](https://github.com/bbauska/sayhello),
   - [ ] [meta/Coursera - Intro to Version Control (git/github/gitlab)](https://www.coursera.org/learn/introduction-to-version-control),
   - [ ] [IBM/Coursera - Getting Started with Git &amp; GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/home/week/1),
+  - [ ] [Google/Coursera - Introduction to Git &amp; GitHub](https://www.coursera.org/learn/introduction-git-github/home/week/1),
+  - [ ] [University of Michigan/Coursera - Advanced Styling with Responsive Design](https://www.coursera.org/learn/responsivedesign/home/week/1),
   - [ ] [meta/Coursera - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript),
   - [ ] [edit - IBM's Intermediate Web Development](https://github.com/bbauska/ibm-intermediate-web-dev),
   - [ ] [Board - Libraries & Frameworks for Frontend Dev](https://www.coursera.org/learn/libraries-and-frameworks-for-frontend-development/lecture/into6/course-introduction),
