@@ -234,10 +234,8 @@ Here are some ideas to get you started:
   - ## <a href="https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm" target="_blank">Coursera Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
 
   - ## <a href="https://github.com/bbauska/front-end-web-ui" target="_blank">github Front-End Web UI Frameworks and Tools: Bootstrap 4</a>
-<br/>
 
   - ## <a href="https://www.coursera.org/learn/front-end-react/home/info" target="_blank">Coursera Front-End Web Deveopment with React</a>
-<br/>
 
   - ## <a href="https://www.coursera.org/learn/build-first-react-website/home/week/1" target="_blank">Coursera Build your first React Website</a>
 
