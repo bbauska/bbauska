@@ -339,5 +339,6 @@ Here are some ideas to get you started:
 
 Next, create a sitemap.xml for the github.io project.
 
-{% include youtube.html id="JLMbpiywVxQ" %}
+{% include youtube.html id="3THtADQW8h0&pp=ygUfdWZvcyBhcmUgcmVhbCAxOTc5IGRvY3VtZW50YXJ5IA%3D%3D" %}
 
+https://www.youtube.com/watch?v=3THtADQW8h0&pp=ygUfdWZvcyBhcmUgcmVhbCAxOTc5IGRvY3VtZW50YXJ5IA%3D%3D
