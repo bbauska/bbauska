@@ -338,3 +338,6 @@ Here are some ideas to get you started:
 [13:1]: https://github.com/bbauska/bbauska/blob/main/images/13-quora.png?raw=true (quora icon)
 
 Next, create a sitemap.xml for the github.io project.
+
+{% include youtube.html id="JLMbpiywVxQ" %}
+
