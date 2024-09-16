@@ -37,13 +37,13 @@ DOS?  Which, by the way, they stole from DEC/UNIX.  Along with C, Pascal, Basic,
 - [React by Facebook - 2nd best, if totally desperate](https://react.dev)
 - [Angular by Google - 3rd, if absolutely totally desperate](https://angular.io)
 - [VueJS, 4th - learning source code (vanilla js)](https://vuejs.org/)
-- [jQuery - this one is 1st of libraries to learn](https://jquery.com)
+- [jQuery, tied 5th - this one is 1st of libraries to learn](https://jquery.com)
 - [EmberJS - tied 5th](https://emberjs.com/)
-- [BackboneJS- 7th](https://backbonejs.org/)
+- [BackboneJS- 8th](https://backbonejs.org/)
 - [Svelte - tied 5th](https://svelte.dev/)
-- [Semantic UI - 8th](https://semantic-ui.com/)
-- [Foundation - 9th](https://get.foundation/sites/docs-v5/)
-- [Preact - 10th rounding up](https://github.com/preactjs/preact)
+- [Semantic UI - 9th](https://semantic-ui.com/)
+- [Foundation - 10th](https://get.foundation/sites/docs-v5/)
+- [Preact - 11th or less rounding down, deservedly](https://github.com/preactjs/preact)
 
 #### todo: 
 - add sticky notes to banner menu.
