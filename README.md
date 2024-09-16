@@ -34,9 +34,9 @@ DOS?  Which, by the way, they stole from DEC/UNIX.  Along with C, Pascal, Basic,
 
 ### 10 JavaScript Library/Framework
 
-- [React by Facebook - 2nd best, if desperate](https://react.dev)
-- [Angular by Google - 3rd, if desperate](https://angular.io)
-- [VueJS, 4th](https://vuejs.org/)
+- [React by Facebook - 2nd best, if totally desperate](https://react.dev)
+- [Angular by Google - 3rd, if absolutely totally desperate](https://angular.io)
+- [VueJS, 4th - learning source code (vanilla js)](https://vuejs.org/)
 - [jQuery - this one is 1st of libraries to learn](https://jquery.com)
 - [EmberJS - tied 5th](https://emberjs.com/)
 - [BackboneJS- 7th](https://backbonejs.org/)
