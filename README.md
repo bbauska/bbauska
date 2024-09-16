@@ -29,6 +29,8 @@ A soulful notion of success rests on the actualization of our innate image. Succ
 Microsoft...How does this company even stay relevant?
 
 DOS?  Which, by the way, they stole from DEC/UNIX.  Along with C, Pascal, Basic, Cobol which they stole from universities around America.
+Internet browser they put out is the absolute WORST. Who even puts out a web browser that ignores intelligence and everyone else's ideas?<br/>
+The answer: Microsoft. Fools, with giant heads. The arrogance is palpable.
 
 ![knowledge growth in c](https://github.com/bbauska/bbauska/assets/41387907/44a942ef-5b78-47cf-9394-d658b5987a65)
 
