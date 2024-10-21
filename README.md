@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 ### [Cellardoor](https://github.com/bbauska/cellardoor)
 
-### [meta Front-End Web Development](https://github.com/ginny100/Meta-Front-End-Developer)
+### [meta Front-End Web Development](https://github.com/oikwunze/Meta-Front-End-Developer)
   - [ ] [CubeIt - Github](https://github.com/bbauska/cubeit),
   - [ ] [Say Hello - Github](https://github.com/bbauska/sayhello),
   - [ ] [meta/Coursera - Intro to Version Control (git/github/gitlab)](https://www.coursera.org/learn/introduction-to-version-control),
