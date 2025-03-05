@@ -3,6 +3,7 @@
 https://github.com/bbauska/zombiePolitics/blob/main/index.html
 
 ## Prepare me for my next <b>job interview</b>
+### If your over 60, forget it. You don'nt have a prayer
 <a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/">IBM's Interview Preparation Guide for Data Analyst</a>
 
 ## What to know - perhaps
