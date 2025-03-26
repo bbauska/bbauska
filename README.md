@@ -3,7 +3,7 @@
 https://github.com/bbauska/zombiePolitics/blob/main/index.html
 
 ## Prepare me for my next <b>job interview</b>
-### If your over 60, forget it. You don't have a prayer
+### If your over 50, forget it. You don't have a prayer
 <a href="https://www.ibm.com/blogs/ibm-training/prepare-for-your-next-data-analyst-job-interview-with-the-ibm-data-analyst-career-guide-and-interview-preparation-course-on-coursera-org/">IBM's Interview Preparation Guide for Data Analyst</a>
 
 ## What to know - perhaps
@@ -321,9 +321,9 @@ Here are some ideas to get you started:
 [7]: https://github.com/bbauska/bbauska
 [8]: https://medium.com/@brianbauska
 [9]: https://codepen.io/BBauska
-[10]: https://instagram/BBauska
-[11]: https://linkedin.com/BrianBauska
-[12]: https://indeed.com/BBauska
+[10]: https://instagram/brianbauska
+[11]: https://linkedin.com/brianbauska@gmail.com
+[12]: https://indeed.com/brianbauska@gmail.com
 [13]: https://www.quora.com/profile/Brian-Bauska
 
 #### Social Icons 
