@@ -1,6 +1,6 @@
 # LEARN TO LEARN
 
-https://github.com/bbauska/zombiePolitics/blob/main/index.html
+Current project: https://github.com/bbauska/trump-2025-grift/blob/main/index.html
 
 ## Prepare me for my next <b>job interview</b>
 ### If you're over 50, forget it. You don't have a prayer.
