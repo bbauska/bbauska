@@ -1,5 +1,7 @@
 # LEARN TO LEARN
 
+The ink of political fiction is blood.
+
 Current project: https://github.com/bbauska/trump-2025-grift/blob/main/index.html
 
 ## Prepare me for my next <b>job interview</b>
